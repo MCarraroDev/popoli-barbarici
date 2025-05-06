@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/popoli-barbarici/static/css/main.323d7611.css",
-    "main.js": "/popoli-barbarici/static/js/main.93b37259.js",
+    "main.js": "/popoli-barbarici/static/js/main.abde0a71.js",
     "static/js/453.ee88511c.chunk.js": "/popoli-barbarici/static/js/453.ee88511c.chunk.js",
     "index.html": "/popoli-barbarici/index.html",
     "main.323d7611.css.map": "/popoli-barbarici/static/css/main.323d7611.css.map",
-    "main.93b37259.js.map": "/popoli-barbarici/static/js/main.93b37259.js.map",
+    "main.abde0a71.js.map": "/popoli-barbarici/static/js/main.abde0a71.js.map",
     "453.ee88511c.chunk.js.map": "/popoli-barbarici/static/js/453.ee88511c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.323d7611.css",
-    "static/js/main.93b37259.js"
+    "static/js/main.abde0a71.js"
   ]
 }
