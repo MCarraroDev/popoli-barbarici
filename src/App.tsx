@@ -4,6 +4,8 @@ import { ThemeProvider, CssBaseline, styled, createTheme } from '@mui/material';
 import Navigation from './components/Navigation';
 import Home from './pages/Home';
 import Cartina from './pages/Cartina';
+import Timeline from './pages/Timeline';
+import { popolazioni } from './types/types';
 
 const theme = createTheme({
   palette: {
@@ -55,6 +57,7 @@ function App() {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/cartina" element={<Cartina />} />
+              <Route path="/timeline" element={<Timeline popolazioni={popolazioni} />} />
             </Routes>
           </ContentWrapper>
         </AppWrapper>
